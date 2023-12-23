@@ -11,7 +11,7 @@ Repósitório para armazenar resumos sobre Git e Github do curso Versionamento d
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no Repositório Local | [resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined)
+|Gravando alterações no Repositório Local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined)
 
 ## 🦍 Referências
 - [Digital Innovation One](https://web.dio.me/track/desenvolvimento-backend-com-kotlin).
